@@ -1,2 +1,2 @@
 # tribute-page
-First web page
+Simple web page from freecodecamp tutorials
